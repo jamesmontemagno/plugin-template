@@ -30,7 +30,8 @@
     <DebugType>portable</DebugType>
     
     <!--TODO: Fill these in-->
-    <PackageLicenseUrl>LINK TO LICENSE</PackageLicenseUrl>
+    <!--See the following for a list of valid license expressions: https://spdx.org/licenses/ -->
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>LINK TO PROJECT</PackageProjectUrl>
     <RepositoryUrl>LINK TO PROJECT</RepositoryUrl>
     <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
