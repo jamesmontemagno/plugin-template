@@ -28,7 +28,13 @@
 
     <LangVersion>latest</LangVersion>
     <DebugType>portable</DebugType>
-    
+
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <DesignTimeBuild Condition="'$(DesignTimeBuild)' == ''">true</DesignTimeBuild>
+
+
     <!--TODO: Fill these in-->
     <!--See the following for a list of valid license expressions: https://spdx.org/licenses/ -->
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
