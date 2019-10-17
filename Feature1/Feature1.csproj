@@ -45,7 +45,11 @@
     
     <Owners>YOU</Owners>
     <Authors>YOU</Authors>
-    <Copyright>Copyright 2018</Copyright>
+    <Copyright>Copyright 2019</Copyright>
+    
+    <!--When built in 2019 will remove extra references on pack-->
+    <DisableExtraReferences>true</DisableExtraReferences>
+    
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
