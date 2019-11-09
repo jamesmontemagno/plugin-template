@@ -20,7 +20,6 @@
     <PackageVersion>1.0.0.0</PackageVersion>
     <PackOnBuild>true</PackOnBuild>
     <NeutralLanguage>en</NeutralLanguage>
-    <LangVersion>default</LangVersion>
     <DefineConstants>$(DefineConstants);</DefineConstants>
     
     <UseFullSemVerForNuGet>false</UseFullSemVerForNuGet>
